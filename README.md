@@ -5,7 +5,7 @@ The files in this repository were used to configure the network depicted below.
 
 Project 1 Red-Team Network Diagram
 
-![Users/daisygonzalez/Desktop/README/Images/Network Diagram.drawio.png: 
+[Users/daisygonzalez/Desktop/README/Images/Network Diagram.drawio.png: 
 
 These files have been tested and used to generate a live ELK deployment on Azure. They can be used to either recreate the entire deployment pictured above. Alternatively, select portions of the __Ansible___ file may be used to install only certain pieces of it, such as Filebeat.
 
